@@ -30,17 +30,14 @@ Follow notebook (D) to evaluate the manipualtions from notebook B and C
 ## Cite
 
 #### When using this software, cite: 
-Montserrat, Daniel Mas, Carlos Bustamante, and Alexander Ioannidis. "LAI-Net: Local-ancestry inference with neural networks." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.
+Montserrat, Daniel Mas, and Alexander G. Ioannidis. "Adversarial Attacks on Genotype Sequences." Biorxiv.
 
-https://ieeexplore.ieee.org/document/9053662
+https://www.biorxiv.org/content/10.1101/2022.11.07.515527v1
 
 ```
 @inproceedings{montserrat2020lai,
-  title={LAI-Net: Local-ancestry inference with neural networks},
-  author={Montserrat, Daniel Mas and Bustamante, Carlos and Ioannidis, Alexander},
-  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={1314--1318},
-  year={2020},
-  organization={IEEE}
+  title={Adversarial Attacks on Genotype Sequences},
+  author={Montserrat, Daniel Mas and Ioannidis, Alexander},
+  booktitle={biorxiv},
 }
 ```
